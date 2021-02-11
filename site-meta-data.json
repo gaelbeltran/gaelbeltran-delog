@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Gael Beltran",
+  "siteUrl": "https://goofy-euler-c1d99d.netlify.app/",
+  "description": "Fullstack Developer currently working with Django and React",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hi! I'm Gael Beltran",
+    "description": "I am a Fullstack Web Developer currently working with Django and React. I run a Youtube Channel where I teach web development in a straightforward and practical way."
   }
 }
